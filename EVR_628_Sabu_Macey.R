@@ -9,7 +9,7 @@
 # 9/1/2026
 # smc623@miami.edu
 # 9/1/2026
-# Description of what this script will do
+# Practice script for EVR_628
 #
 ################################################################################
 
